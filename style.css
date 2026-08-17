@@ -1,0 +1,33 @@
+header{
+    background-color: rgb(239, 255, 114);
+    color:rgb(255, 143, 255, 152);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    border: 5px solid rgb(221, 223, 77);
+    padding: 16px;
+}
+main{
+    background-color:rgb(255, 143, 152);
+    color:bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    border: 5px solid lightcoral;
+    padding: 16px;
+    text-align: center;
+}
+.artigo-autor{
+    font-weight: bold;
+}
+
+img{
+    
+}
+footer{
+    background-color: rgb(138, 255, 216);
+    color: rgb(235, 71, 71);
+    font-size: larger;
+    text-align: center;
+    border: 5px solid rgb(60, 204, 178);
+    
+}
